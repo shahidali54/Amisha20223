@@ -21,11 +21,11 @@
 
 ###  About Me :
 I am an aspiring Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m a pre-final year ECE undergraduate and contributing to frontend  for building web applications.
+- :telescope: I’m a final year ECE undergraduate contributing to frontend developer for building web applications.
 
-- :seedling: Exploring Web Development particularly React, NextJs, TypeScipt.
+- :seedling: Exploring Web Development, particularly React, NextJs, and TypeScipt.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks, Leetcode and read tech articles.
+- :zap: In my free time, I solve problems on GeeksforGeeks, and Leetcode and read tech articles.
 
 
 :mailbox: How to reach me: [![Email Badge](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:amisha.2125ec1132@kiet.edu)
