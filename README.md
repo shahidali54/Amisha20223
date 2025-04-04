@@ -42,7 +42,7 @@
   <a href="mailto:amisha.2125ec1132@kiet.edu">
     <img src="https://img.shields.io/badge/Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/amisha-singh-69a790230/">
+  <a href="https://d8it4huxumps7.cloudfront.net/uploads/profileData/files/30889909/amisharajput977_67d15818117e3.pdf/">
     <img src="https://img.shields.io/badge/View%20Resume-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Resume Badge"/>
   </a>
 </div>
