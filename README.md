@@ -126,7 +126,7 @@ I am an aspiring Front-end Developer <img src="https://media.giphy.com/media/WUl
 ### 📫 Connect With Me:
 
 <div align="center">
-  <a href="mailto:amisha.2125ec1132@kiet.edu">
+  <a href="mailto:amisharajput977@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/amisha-singh-69a790230/">
