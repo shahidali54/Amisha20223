@@ -13,6 +13,7 @@
   <a href="https://leetcode.com/u/amisha1823/">
     <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
   </a>
+  
 
   <a href="https://www.naukri.com/code360/profile/78f20e90-8a48-453a-a977-8b27a5ac0c85">
     <img src="https://img.shields.io/badge/Coding%20Ninjas-9B59B6?style=for-the-badge&logo=codingninjas&logoColor=white" alt="Coding Ninjas Badge"/>
